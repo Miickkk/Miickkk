@@ -90,3 +90,6 @@
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8C40E3&section=footer&reversal=false"/>
+
+
+![GitHub Snake](https://github.com/Miickkk/Miickkk/blob/output/galaxy.svg)
