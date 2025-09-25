@@ -106,5 +106,11 @@
 
 <br>
 
+<div align="center" width="100%">
+  <b>₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ  🦊B Y E🦊  ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ</b>
+</div>
+
+<br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8C40E3&section=footer&reversal=false"/>
 
