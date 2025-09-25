@@ -83,10 +83,6 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdashboard&s=39&c=8c40e3&bg=00000000&no=2&ff=linebeam&tb=PROFILE+VISITS%3A+++&ta=" alt="visits"/></p> 
-</div>
-
 ![GitHub Snake](https://github.com/Miickkk/Miickkk/blob/output/galaxy.svg)
 
 <br>
