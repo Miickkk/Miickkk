@@ -3,8 +3,14 @@
 <br>
 
 <div align="center">
+
+<div align="center">
+  <b>✧ ༺ ♥ ༻ ∞🦊✧ ༺ ♥ ༻ ∞</b>
+</div>
+
+<br>
   
-  <b>`ソフトウェアプログラマー`</b>
+  <b>`💜 ソフトウェアプログラマー 💜`</b>
   <samp>
       <br>
       Opa! Aqui é a <b>Anick L</b>
@@ -18,10 +24,16 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/miick_♡-black" />
+  <img src="https://img.shields.io/badge/miick_ღ-black" />
 </div>
       
 <br>
+<br>
+
+<div align="center" width="100%">
+  <b>₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ  🦊C O N T R I B U I Ç Õ E S🦊  ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ</b>
+</div>
+
 <br>
       
 <div align="center">
@@ -42,6 +54,15 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  
   
 </div>
 
@@ -51,20 +72,20 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>₊˚ˑ ༄ ؘ˚ 🦊Mais sobre mim🦊 ₊˚ˑ ༄ ؘ˚</b>
       </samp>
   </summary>
   
 <br>
-
-##
-
+<br>
+₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ ·₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ ·₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚
+<br>
 <br>
 
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      💜 Fale comigo: 💜
     </b>
   </samp>
   <br>
@@ -74,16 +95,14 @@
   [![Instagram](https://img.shields.io/badge/Instagram-56288C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kx.n.i/?next=%2F)
   
 </div>
-
 <br>
-
 </details>
 
-##
-
 <br>
 
-![GitHub Snake](https://github.com/Miickkk/Miickkk/blob/output/galaxy.svg)
+<p align="center">
+  <img src="https://github.com/Miickkk/Miickkk/blob/output/galaxy.svg" alt="GitHub Snake" />
+</p>
 
 <br>
 
