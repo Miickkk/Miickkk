@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/miick_ღ-black" />
+  <img src="https://img.shields.io/badge/✧ M i i c k ✧-8C40E3" />
 </div>
       
 <br>
