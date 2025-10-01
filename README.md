@@ -9,6 +9,18 @@
 </div>
 
 <br>
+
+<div align="center" width="100%">
+  <img src="" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<div align="center">
+  <b>✧ ༺ ♥ ༻ ∞🦊✧ ༺ ♥ ༻ ∞</b>
+</div>
+
+<br>
   
   <b>`💜 ソフトウェアプログラマー 💜`</b>
   <samp>
