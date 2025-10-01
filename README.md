@@ -11,7 +11,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="" alt="Typing SVG"/>
+  <img src="https://Miickkk/download (1).gif" alt="Typing SVG"/>
 </div>
 
 <br>
