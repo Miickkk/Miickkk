@@ -11,7 +11,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="src/img/gif/download (3).gif" alt="Typing SVG"/>
+  <img src="src/img/gif/download.gif" alt="Typing SVG"/>
 </div>
 
 <br>
