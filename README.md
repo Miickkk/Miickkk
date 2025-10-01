@@ -10,7 +10,9 @@
 
 <br>
 
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<div align="center" width="100%">
+  <img src="src/img/gif/download (3).gif" alt="Typing SVG"/>
+</div>
 
 <br>
 
