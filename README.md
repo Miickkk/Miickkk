@@ -104,7 +104,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-56288C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:miickk09@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-56288C?style=for-the-badge&logo=gmail&logoColor=fff)](https://mail.google.com/mail/?view=cm&fs=1&to=miickk09@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-56288C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kx.n.i/?next=%2F)
   
 </div>
