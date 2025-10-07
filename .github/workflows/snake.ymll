@@ -30,7 +30,7 @@ name: Generator Snake
            outputs: |
              dist/github-snake.svg
              dist/github-snake-dark.svg?palette=github-dark
-             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+             dist/ocean.svg?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
              dist/ocean-dark.svg?palette=github-light&color_snake=purple&color_dots=#8bd6cf,#1da2c2,#146589,#123b55,#12172b
              dist/burnt-yellow.svg?palette=github-light&color_snake=#3f170b&color_dots=#fff8cd,#d59037,#985a27,#673316,#3f170b
              dist/dusky-bloom.svg?palette=github-light&color_snake=#323021&color_dots=#fff8cd,#ffb2ed,#bfa0ff,#4b643f,#323021
