@@ -105,7 +105,9 @@
   [![Gmail](https://img.shields.io/badge/Gmail-56288C?style=for-the-badge&logo=gmail&logoColor=fff)](https://mail.google.com/mail/?view=cm&fs=1&to=miickk09@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-56288C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kx.n.i/?next=%2F)
   [![GitHub](https://img.shields.io/badge/GitHub-56288C?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/Miickkk/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/Linkedin-56288C?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/anicklima-dev/?next=%2F)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-56288C?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/anicklima-dev/)
+
+
   
 </div>
 <br>
