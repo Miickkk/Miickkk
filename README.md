@@ -31,7 +31,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Sejam+bem-vindos+o+meu+Git+%5E-%5E;Sou+uma+desenvolvedora+de+software;Obrigada+por+virem+%E2%99%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Sejam+bem-vindos+o+meu+Git+%5E-%5E" alt="Typing SVG"/>
 </div>
 
 <br>
