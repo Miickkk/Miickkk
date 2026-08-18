@@ -45,7 +45,7 @@ name: Generator Snake
              dist/cyberpunk.svg?color_snake=#004366&color_dots=#142107,#0f5a45,#ff948d,#ffcb9c,#fffab7
              dist/rainbow.svg?palette=github-light&color_snake=#1a1a1a&color_dots=#ffb3b3,#ffbb66,#ffec80,#66cc99,#6699ff,#4b1f5c
              dist/rainbow-dark.svg?palette=github-light&color_snake=#1a1a1a&color_dots=#e68a00,#e0d100,#4d8b66,#3366cc,#3d145e
-             dist/cool.svg?palette=github-light&color_snake=#2b372f&color_dots=#f3eae8,#fffbc0,#ffe262,#ff921f,#327285
+             dist/cool.svg?palette=github-light&color_snake=#000000&color_dots=#f3eae8,#fffbc0,#ffe262,#ff921f,#327285
  
        - name: Debug - List generated files
          run: ls -R dist || echo "Directory dist does not exist"
