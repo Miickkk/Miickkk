@@ -87,7 +87,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Miickkk/Miickkk/blob/output/galaxy.svg" alt="GitHub Snake" />
+  <img src="https://github.com/Miickkk/Miickkk/blob/output/cool.svg" alt="GitHub Snake" />
 </p>
 
 <br>
@@ -98,5 +98,5 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8C40E3&section=footer&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFFFFF&section=footer&reversal=false"/>
 
