@@ -87,7 +87,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Miickkk/Miickkk/blob/output/cool.svg" alt="GitHub Snake" />
+  <img src="https://github.com/Miickkk/Miickkk/blob/output/space.svg" alt="GitHub Snake" />
 </p>
 
 <br>
