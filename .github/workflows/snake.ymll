@@ -41,7 +41,7 @@ name: Generator Snake
              dist/neon.svg?color_snake=#412904&color_dots=#e6ffcc,#ccff99,#99ff66,#66ff33,#33cc00
              dist/candy.svg?color_snake=purple&color_dots=#ffb6c1,#ff85a2,#ff4f79,#ff1a52,#c71585
              dist/aqua.svg?color_snake=cyan&color_dots=#e0ffff,#b3ffff,#80ffff,#4dffff,#00ced1
-             dist/space.svg?color_snake=red&color_dots=#16213e,#0f3460,#533483,#e94560,#ff6f61
+             dist/space.svg?palette=github-light&color_snake=#000000&color_dots=#E5E5E5,#BFBFBF,#999999,#666666,#333333
              dist/cyberpunk.svg?color_snake=#004366&color_dots=#142107,#0f5a45,#ff948d,#ffcb9c,#fffab7
              dist/rainbow.svg?palette=github-light&color_snake=#1a1a1a&color_dots=#ffb3b3,#ffbb66,#ffec80,#66cc99,#6699ff,#4b1f5c
              dist/rainbow-dark.svg?palette=github-light&color_snake=#1a1a1a&color_dots=#e68a00,#e0d100,#4d8b66,#3366cc,#3d145e
