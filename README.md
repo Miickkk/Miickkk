@@ -80,18 +80,6 @@
 <br>
 <br>
 
-<div align="center">
-  <b>✧ ༺ ♥ ༻ ∞🦢✧ ༺ ♥ ༻ ∞</b>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Miickkk/Miickkk/blob/output/space.svg" alt="GitHub Snake" />
-</p>
-
-<br>
-
 <div align="center" width="100%">
   <b>₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ  🦢B Y E🦢  ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ ༄ ؘ˚₊ · ₊˚ˑ</b>
 </div>
